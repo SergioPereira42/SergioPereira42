@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SergioPereira42
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning php and c#
+- 📫 How to reach me sergiogabriele2000@gmail.com
